@@ -1,5 +1,7 @@
 # WIP - Kontakt- og Reservasjonsregisteret klient
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/maccyber/kor-client-jose.svg)](https://greenkeeper.io/)
+
 [Node.js](https://nodejs.org/en/) klient for kontakt- og reservasjonsregisterets Oauth2-API (Server-til-server) - [mer info](https://difi.github.io/idporten-oidc-dokumentasjon/oidc_api_krr.html)
 
 Denne klienten benytter [node-jose](https://github.com/cisco/node-jose) for generering av JWT.
